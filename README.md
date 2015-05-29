@@ -1,6 +1,6 @@
 # Liferay Screens
 
-Modificado en ek fork
+Modificado en el fork
 
 [![License](http://img.shields.io/badge/license-LGPL_2.1-red.svg?style=flat-square)](http://opensource.org/licenses/LGPL-2.1) [![Release](http://img.shields.io/badge/release-Beta_3-orange.svg?style=flat-square)](https://github.com/liferay/liferay-screens/releases/) [![Tag](http://img.shields.io/github/tag/liferay/liferay-screens.svg?style=flat-square)](https://github.com/liferay/liferay-screens/tags/)
 
